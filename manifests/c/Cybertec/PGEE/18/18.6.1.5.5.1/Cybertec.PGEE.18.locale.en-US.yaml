@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: Cybertec.PGEE.18
+PackageVersion: 18.6.1.5.5.1
+PackageLocale: en-US
+Publisher: Cybertec
+PublisherUrl: https://www.cybertec-postgresql.com/en/
+PublisherSupportUrl: https://www.cybertec-postgresql.com/en/contact/
+Author: Cybertec
+PackageName: PostgreSQL Enterprise Edition 18
+PackageUrl: https://www.cybertec-postgresql.com/en/
+License: Proprietary
+ShortDescription: Enterprise-grade, Cybertec-built distribution of PostgreSQL 18 with extended features and professional support.
+Description: PostgreSQL Enterprise Edition (PGEE) is a proprietary, enterprise-grade build of PostgreSQL developed and supported by Cybertec. It bundles PostgreSQL 18 with enterprise features, hardening, and professional support.
+Moniker: pgee18
+Tags:
+- database
+- postgresql
+- rdbms
+- pgee
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
