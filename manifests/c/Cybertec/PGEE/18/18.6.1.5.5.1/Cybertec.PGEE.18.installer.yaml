@@ -18,8 +18,8 @@ ReleaseDate: 2026-10-19
 Installers:
 - Architecture: x64
   # TODO: Replace with the permanent, direct download URL for this release
-  InstallerUrl: https://www.cybertec-postgresql.com/downloads/PGEE-Setup-x64.exe
+  InstallerUrl: https://repository.cybertec.at/windows/public/18/postgresql-ee-18.6_EE_1.5.5-public-1.exe
   # TODO: Must match the file at the final InstallerUrl (winget hash <file>)
-  InstallerSha256: 06993B9089EF91B24992B1B069C6F83C477B85862F733A740C9B669FF8FEF5BD
+  InstallerSha256: 2da574cf7dfa19d11a84006c3487a7b5df35542564351a55c3659a43be84214e
 ManifestType: installer
 ManifestVersion: 1.12.0
